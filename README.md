@@ -25,6 +25,7 @@ ________________________________________
 •	Modelado de datos 
 
 ________________________________________
+
 📌 KPIs Principales
 
 •	% Personal insatisfecho: 47,9% 
@@ -38,6 +39,7 @@ ________________________________________
 •	Costo total de planilla: $14,5 millones 
 
 ________________________________________
+
 🔍 Análisis 
 
 •	Se detecta un alto nivel de insatisfacción (47,9%) en los colaboradores. 
@@ -53,7 +55,9 @@ ________________________________________
 •	El ausentismo (10%) podría estar vinculado al nivel de desmotivación. 
 
 ________________________________________
+
 ⚠️
+
 •	Riesgo de pérdida de talento clave con experiencia. 
 
 •	Impacto negativo en la productividad organizacional. 
@@ -81,11 +85,9 @@ ________________________________________
 🧠 Conclusión
 
 El análisis evidencia un problema estructural en la satisfacción del personal, acompañado de una plantilla con alta antigüedad y posibles desafíos en la gestión del liderazgo. Se recomienda implementar estrategias 
-
 enfocadas en clima laboral, desarrollo del talento y optimización organizacional para mejorar el compromiso y la eficiencia.
+
 ________________________________________
 
-💡 
-
-Este dashboard fue desarrollado con el objetivo de simular un entorno real de análisis en RRHH, aplicando buenas prácticas de visualización y análisis de datos.
+💡 Este dashboard fue desarrollado con el objetivo de simular un entorno real de análisis en RRHH, aplicando buenas prácticas de visualización y análisis de datos.
 
