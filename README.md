@@ -10,7 +10,7 @@ Generar insights que ayuden a la toma de decisiones en la gestión del talento, 
 
 ## 📷 Vista del Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ## 📁 Dataset
 
