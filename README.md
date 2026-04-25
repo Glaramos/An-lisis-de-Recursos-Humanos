@@ -1,4 +1,6 @@
-# 📊 Análisis de Recursos Humanos
+# 📊 Análisis de Recursos Humanos - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=glaramos.An-lisis-de-Recursos-Humanos)
+
+
 
 ## 📌 Descripción del Proyecto
 
@@ -62,7 +64,7 @@ El dataset incluye:
   
 - Modelado de datos
 
-## 💡 Autor
+## 💡 Autor 
 
 Gladys Ramos
 
