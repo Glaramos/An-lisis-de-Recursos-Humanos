@@ -17,52 +17,52 @@ Generar insights que ayuden a la toma de decisiones en la gestión del talento, 
 El dataset incluye:
 
 - Datos demográficos (edad, género)
-- 
+
 - Información organizacional (departamento, supervisor)
-- 
+  
 - Métricas de desempeño (evaluación)
-- 
+  
 - Indicadores de RRHH (satisfacción, ausentismo, salario, antigüedad)
 
 ## 📊 Principales Insights
 
 - El 47,9% de los empleados se encuentra insatisfecho
-- 
+  
 - Tasa de ausentismo del 10%
-- 
+  
 - Alta antigüedad promedio (12,6 años)
-- 
+  
 - Plantilla con tendencia al envejecimiento
-- 
+  
 - Problemas de satisfacción en todos los departamentos
 
 ## ⚠️ Impacto en el negocio
 
 - Riesgo de rotación de talento
-- 
+  
 - Disminución de la productividad
-- 
+  
 - Posibles problemas en clima laboral y liderazgo
 
 ## 🚀 Recomendaciones
 
 - Implementar encuestas de clima laboral
-- 
+  
 - Mejorar la gestión de equipos y liderazgo
-- 
+  
 - Desarrollar estrategias de retención de talento
-- 
+  
 - Incorporar talento joven
 
 ## 🛠️ Herramientas utilizadas
 
 - Power BI
-- 
+  
 - DAX
-- 
+  
 - Modelado de datos
 
 ## 💡 Autor
 
-Gladys
+Gladys Ramos
 
